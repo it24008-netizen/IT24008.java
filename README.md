@@ -16,7 +16,7 @@ class Vehicle{
         System.out.println("Vehicle is starting.....");
     }
 }
-public class IT24059 {
+public class IT24008 {
     //Main Class
     public static void main(String[] args) {
         //Command Line Input
