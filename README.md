@@ -1,4 +1,5 @@
 ### IT24008.java
+~~~
 class Vehicle{
     //Taking two private variable
     private String brand;
@@ -25,3 +26,4 @@ public class IT24059 {
         }
     }
 }
+~~~
